@@ -22,3 +22,10 @@ Stay tuned for updates on our project, tech stack, design prototypes, and more a
 🚧 Build the future with us.
 
 #Solchararat #GDGHAU #Solcha2025 #DevWithPurpose
+
+## 📈 Contributor Stats
+
+<!-- Use GitHub username below -->
+[![Solchararat's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)](https://github.com/USERNAME)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME)
