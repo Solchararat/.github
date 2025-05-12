@@ -26,12 +26,12 @@ Stay tuned for updates on our project, tech stack, design prototypes, and more a
 ## 📈 Contributor Stats
 
 <!-- Use GitHub username below -->
-# DarkNecrocities
+# ⋆༺𓆩☠︎︎𓆪༻⋆ DarkNecrocities
 [![Solchararat's GitHub stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)](https://github.com/darknecrocities)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=compact)](https://github.com/darknecrocities)
 
-# Dzone
+# ✽𝕊𝕒𝕥𝕠𝕣𝕦 𝔾𝕠𝕛𝕠✽ Dzone
 
 [![Solchararat's GitHub stats](https://github-readme-stats.vercel.app/api?username=left-no-crumbz&show_icons=true&theme=radical)](https://github.com/left-no-crumbz)
 
